@@ -57,7 +57,7 @@ def ClickAdd():
             popUp()
 
 
-def readPasswords():
+def readPasswords()
     file = open("info.txt").read()
     root1 = Tk()
     root1.title("Passwords Viewer")
