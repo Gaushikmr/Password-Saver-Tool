@@ -1,5 +1,5 @@
 print("                                  Password Saver Tool                                       ")
-print("                              Developed by GAUSHIK M.R                               ")
+print("                              Developed by GAUSHIK MR                             ")
 print("\n")
 
 from tkinter import *
